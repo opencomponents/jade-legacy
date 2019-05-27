@@ -10,3 +10,4 @@ npm-debug.log
 /test/temp
 /docs/out
 .release.json
+package-lock.json
